@@ -9,7 +9,7 @@
 
 | Nome do Discente | Papel / Contribuição Principal |
 | :--- | :--- |
-| **João Victor Moura** | Infraestrutura Docker, automação de scripts de teste e ingestão |
+| **João Victor Oliveira Moura** | Infraestrutura Docker, automação de scripts de teste e ingestão |
 | *[Nome do Integrante 2]* | Engenharia de requisitos e partes interessadas |
 | *[Nome do Integrante 3]* | Mapeamento da norma ISO/IEC 25010:2023 |
 | *[Nome do Integrante 4]* | Análise de dados sensíveis e privacidade |
