@@ -21,7 +21,7 @@
 
 ## 2. Ficha Técnica do Projeto Avaliado
 
-* **Repositório Oficial:** [https://github.com/langfuse/langfuse](https://github.com/langfuse/langfuse)
+* **Repositório Oficial:** https://github.com/langfuse/langfuse
 * **Organização Responsável:** Langfuse GmbH / Comunidade Open Source
 * **Licença:** MIT / FSL (Functional Source License)
 * **Data de Acesso:** Setembro de 2026
@@ -32,18 +32,19 @@
 
 ## 3. Estrutura do Repositório
 
-```text
-├── evidencias/                # Capturas de tela e comprovações de execução
-│   ├── print_01_lista_traces.png
-│   ├── print_02_detalhe_ct01.png
-│   ├── print_03_privacidade_ct05.png
-│   ├── print_04_stress_ct08.png
-│   └── print_05_variabilidade.png
-├── scripts/                   # Automação de testes em Python
-│   ├── executar_12_testes.py
-│   └── executar_variabilidade.py
-├── README.md                  # Este documento
-└── VIDEO.md                   # Identificação de participantes e link da apresentação
+* **evidencias/**: Pasta contendo as capturas de tela e comprovações de execução:
+  * `print_01_lista_traces.png`
+  * `print_02_detalhe_ct01.png`
+  * `print_03_privacidade_ct05.png`
+  * `print_04_stress_ct08.png`
+  * `print_05_variabilidade.png`
+* **scripts/**: Automação dos testes em Python:
+  * `executar_12_testes.py`
+  * `executar_variabilidade.py`
+* **README.md**: Documento de apresentação e documentação técnica do repositório.
+* **VIDEO.md**: Identificação dos participantes e link da apresentação em vídeo.
+
+---
 
 ## 4. Metodologia de Testes Executada
 
