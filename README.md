@@ -90,6 +90,6 @@ Executada por meio do script `scripts/executar_variabilidade.py`, a bateria de t
 
 ## 6. Vídeo da atividade
 
-* **Link de Acesso Público:** `[INSERIR_AQUI_A_URL_DO_VIDEO_ATE_10_MINUTOS]`
+* **Link de Acesso Público:** `https://www.youtube.com/watch?v=EQninN1BXAA`
 * **Duração:** Até 10 minutos
 * **Participantes Identificados:** Todos os membros da equipe participam ativamente da gravação com exposições técnicas de suas contribuições.
