@@ -10,12 +10,13 @@
 | Nome do Discente | Papel / Contribuição Principal |
 | :--- | :--- |
 | **João Victor Oliveira Moura** | Infraestrutura Docker, automação de scripts de teste e ingestão |
-| *[Nome do Integrante 2]* | Engenharia de requisitos e partes interessadas |
-| *[Nome do Integrante 3]* | Mapeamento da norma ISO/IEC 25010:2023 |
-| *[Nome do Integrante 4]* | Análise de dados sensíveis e privacidade |
-| *[Nome do Integrante 5]* | Análise de variabilidade e não-determinismo |
+| **Bruno Saint Clair Silva Oliveira** | Avaliação funcional da plataforma e elaboração do diagnóstico técnico  |
+| **Gian Glauberty Santos Nascimento** | Diagnóstico de falha e melhorias |
+| **Gabriel Bastos Pimentel** | Testes no modelo e estruturação do relatório |
+| **Leonardo de Souza Aragão** | Testes no modelo e estruturação da apresentação |
 | **Gian Glauberty Santos Nascimento** | Diagnóstico de falhas e plano de melhoria |
-| *[Nome do Integrante 7]* | Redação do relatório técnico e consolidação de slides |
+| **João Felipe Quentino** | Casos de testes voltado para payload e origem de informações |
+| **Renner do Nascimento Brito** | Revisão ortográfica, compilação do relatório final de 8 a 12 páginas em PDF e formatação visual dos slides. |
 
 ---
 
